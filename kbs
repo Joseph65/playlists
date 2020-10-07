@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Mplex HD
+http://live.yingtaotvapp.com/Mplex/index.m3u8
+#EXTINF:-1,KBS
+http://live.yingtaotvapp.com/KBSJoy/index.m3u8
+#EXTINF:-1,Korea 1
+http://live.yingtaotvapp.com/MBCevery1/index.m3u8
+#EXTINF:-1,CCNTV
+http://live.yingtaotvapp.com/CNTV/index.m3u8
+#EXTINF:-1,KBS1
+http://live.yingtaotvapp.com/KBS1/index.m3u8
